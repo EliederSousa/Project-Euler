@@ -1,2 +1,2 @@
 # Project-Euler
-My Project-Euler answers that are out of the box.
+My Project-Euler answers that are (or not) out of the box.
