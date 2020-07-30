@@ -24,8 +24,9 @@ F(0)=odd, F(1)=even, F(2)=odd, F(3)=odd, F(4)=even
 To be even, two odds need to be added. The first odd come from (odd+even) sum. The second odd come from (even+odd).
 Hence the third sum will be (odd+odd), and the cycle restarts.
 Since the first even is F(1), the next even will be F(1+3) ↔ F(4) ↔ F(n ≡ 1 (mod 3)) for every n
+This fact can improve some loops to run 3 times faster.
 
-We can get the next even number multiplying by 4.2360679774997176967001439604968 , and performing a ROUND operation.
+BUT... we can get the next even number multiplying by 4.2360679774997176967001439604968 , and performing a ROUND operation.
 The number 4.23... is PHI^3, since the ratio of every consecutive number is near PHI.
 We are searching numbers 3 positions apart, so we can take the cube of PHI to do the math.
 F(4) = ROUND( F(1) * 4.2360679774997176967001439604968 ) */
