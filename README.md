@@ -1,15 +1,15 @@
 # Project-Euler
-My Project-Euler answers that are (or not) out of the box.
+#### My Project-Euler answers that are (or not) out of the box.
 
-FAQ:
-Q: Why you don't show the plain answers for us to copy and have easier work?
-A: Because I don't want to make people have status of good programmer if they don't deserve it. Go and try yourself.
+#### FAQ:
+**Q:** Why you don't show the plain answers for us to copy and have easier work?
+**A:** Because I don't want to make people have status of good programmer if they don't deserve it. Go and try yourself.
 
-Q: Are you post every problem solution? Even the 101? Even 700?
-A: No. Since Project Euler have rules, and one of these rules is "don't teach how to pass levels above 100", we are limited to that number.
+**Q:** Are you post every problem solution? Even the 101? Even 700?
+**A:** **No.** Since Project Euler have rules, and one of these rules is "don't teach how to pass levels above 100", we are limited to that number.
 
-Q: How can I pass the levels by myself?
-A: A lot of studying Mathematics (some books have recreational stuff, we found some clues within it), sometimes trial and error, patience, faith.
+**Q:** How can I pass the levels by myself?
+**A:** A lot of studying Mathematics (some books have recreational stuff, we found some clues within it), sometimes trial and error, patience, faith.
 
-Q: Any advice?
-A: Don't try to pass every level by brute-force. Some of them have an elegant equation or theorem behind it. Some brute-force approaches takes O(n²) times, while with some algebra we can have O(1) results. Again: study!
+**Q:** Any advice?
+**A:** Don't try to pass every level by brute-force. Some of them have an elegant equation or theorem behind it. Some brute-force approaches takes O(n²) times, while with some algebra we can have O(1) results. Again: study!
