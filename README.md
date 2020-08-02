@@ -1,8 +1,9 @@
 # Project-Euler
 My Project-Euler answers that are (or not) out of the box.
 
-FAQ:
 
+
+FAQ:
 Q: Why you don't show the plain answers for us to copy and have easier work?
 A: Because I don't want to make people have status of good programmer if they don't deserve it. Go and try yourself.
 
