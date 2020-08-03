@@ -12,7 +12,7 @@
 **A:** **No.** Since Project Euler have rules, and one of these rules is "don't teach how to pass levels above 100", we are limited to that number.
 
 **Q:** How can I pass the levels by myself?  
-**A:** A lot of studying Mathematics (some books have recreational stuff, we found some clues within it), sometimes trial and error, patience, faith.
+**A:** Studying Mathematics a lot (some books have recreational stuff, we found some clues within it), sometimes trial and error, patience, faith.
 
 **Q:** Any advice?  
 **A:** Don't try to pass every level by brute-force. Some of them have an elegant equation or theorem behind it. Some brute-force approaches takes O(n²) times, while with some algebra we can have O(1) results. Again: study!
