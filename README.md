@@ -5,6 +5,9 @@
 **Q:** Why you don't show the plain answers for us to copy and have easier work?  
 **A:** Because I don't want to make people have status of good programmer if they don't deserve it. Go and try yourself.
 
+**Q:** Why Javascript?
+**A:** Because is easy to check, easy to learn, easy to explain. If I face a problem that Javascript can not resolve, PROBABLY I will choice Java, Python or C(++ or #).
+
 **Q:** Are you post every problem solution? Even the 101? Even 700?  
 **A:** **No.** Since Project Euler have rules, and one of these rules is "don't teach how to pass levels above 100", we are limited to that number.
 
