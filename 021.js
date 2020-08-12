@@ -16,7 +16,7 @@
  */
 
 // We need a previously created prime number array.
-// When I'm working on a problem, I load "util/primes.js" file to avoid creating the same function over and over. 
+// When I'm working on a problem, I load "util/mathprimes.js" file to avoid creating the same function over and over. 
 // _primes = [2,3,5, .... ];
 
 // This is a well known function, called sigma function.
