@@ -12,7 +12,7 @@
 **A:** I resolve these problems in my spare time. Even I knowing the algorithm to solve one big sum or calculating the factorial of 4000 (not aproximating), my time is limited and sometimes another language has an easier way to make the same thing. If you see two files of same problem, take a look because one of them is the 'hard method'.
 
 **Q:** What is that MathPrimes functions (or whatever) that isn't in the source code?  
-**A:** I solve these problems in a 'testbed.html' page, to make debbuging easy. And sometimes I import scripts (that I wrote) from 'util' folder because after some problems, we need to reuse some functions from prevous ones. All stuff that is not in the code will be on 'util' folder. 
+**A:** I solve these problems in a 'testbed.html' page, to make debbuging easy. And sometimes I import scripts (that I wrote) from 'util' folder because after some problems, we need to reuse some functions from previous ones. All stuff that is not in the code will be on 'util' folder. 
 
 **Q:** Are you post every problem solution? Even the 101? Even 700?  
 **A:** **No.** Since Project Euler have rules, and one of these rules is "don't teach how to pass levels above 100", we are limited to that number.
