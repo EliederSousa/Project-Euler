@@ -1,5 +1,19 @@
-/******** FACTORIALS ********/
-	
+/**
+ *  functions.js
+ *  
+ *  Copyright (c) 2020, Elieder Sousa
+ *  eliedersousa<at>gmail<dot>com
+ *  
+ *  Distributed under the MIT license. 
+ *  
+ *  @date     12/08/20
+ *  @version  v0.1
+ *  
+ *  @brief    This file has a set of functions that covers a lot of different topics in Mathematics. 
+ */
+ 
+ 
+/******** FACTORIALS ********/	
 // 4! 	=	24
 // 8!	=	40320
 // 10! 	=	3628800
