@@ -5,8 +5,8 @@
 **Q:** Why you don't show the plain answers for us to copy and have easier work?  
 **A:** Because I don't want to make people have status of good programmer if they don't deserve it. Go and try yourself.
 
-**Q:** Why Javascript?  
-**A:** Because is easy to check, easy to learn, easy to explain. I think it is "one of the best languages to explain an algorithm without jumping the hardest part of it". If I face a problem that Javascript can not solve, PROBABLY I will choice Python, Java or C(++ or #).
+**Q:** Why Javascript and Python?  
+**A:** Javascript because is easy to check, easy to learn, easy to explain. I think it is "one of the best languages to explain an algorithm without jumping the hardest part of it". Python because I'm learning it (and it's simplicity too). If I face a problem that Javascript can not solve, PROBABLY I will choice Python, Java or C(++ or #).
 
 **Q:** Why not using the same language for all problems?  
 **A:** I resolve these problems in my spare time. Even I knowing the algorithm to solve one big sum or calculating the factorial of 4000 (not aproximating), my time is limited and sometimes another language has an easier way to make the same thing. If you see two files of same problem, take a look because one of them is the 'hard method'.
